@@ -1,4 +1,4 @@
-# 🎵 Spotify Backend API - Developer Guide
+# 🎵 MusicApp Backend API - Developer Guide
 
 ## 📘 Project Overview
 
